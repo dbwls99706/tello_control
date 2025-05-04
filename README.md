@@ -1,6 +1,6 @@
 # Tello 색상 감지 드론 제어 프로젝트
 
-이 프로젝트는 MATLAB과 Ryze Tello 드론을 이용해 카메라로 빨간색 → 초록색 → 파란색 순서로 물체를 인식하고, 각 색상에 따라 드론을 제어(takeoff → move → land)하는 예제입니다.
+이 프로젝트는 MATLAB과 Ryze Tello 드론을 이용해 카메라로 빨간색 → 초록색 → 파란색 순서로 물체를 인식하고, 각 색상에 따라 드론을 제어(takeoff → move → land)하는 예제이다.
 
 ![tello](https://github.com/user-attachments/assets/c9d7c9ef-57c0-48a5-9905-001666661e44)
 
